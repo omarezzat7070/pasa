@@ -1,0 +1,13 @@
+body{
+    position: absolute ;
+    right: 700px;
+}
+.position{
+    position: absolute;
+    right: 1500px;
+}
+.position1{
+    position: absolute;
+    nav-down: 50px;
+    left: -30px;
+}
